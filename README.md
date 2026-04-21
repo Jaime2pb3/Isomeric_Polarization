@@ -1,7 +1,8 @@
 # Isomeric Polarization: PfV v5 Empirical Validation
 ### Reproducibility Package
 
-**Paper:** *Isomeric Polarization: Internal Structural Divergence as Emergent Property of Computational Systems*  
+**Paper:** *Isomeric Polarization: Internal Structural Divergence as Emergent Property of Computational Systems*
+**DOI:** [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19675750.svg)](https://doi.org/10.5281/zenodo.19675750)
 **Author:** Luis Jaime Ledesma Pérez — research@twoquarks.com  
 **Date:** February 18, 2026  
 **Version:** pfv-v5-paper
