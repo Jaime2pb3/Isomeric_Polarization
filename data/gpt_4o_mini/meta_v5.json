@@ -1,0 +1,20 @@
+{
+  "ts": "2026-02-18T15:32:57Z",
+  "provider": "openai",
+  "model": "gpt-4o-mini",
+  "seed": 42,
+  "views": 3,
+  "tmin": 0.3,
+  "tmax": 1.2,
+  "max_tokens": 150,
+  "groups": [
+    "control_negative",
+    "benign",
+    "stress",
+    "adversarial_sim"
+  ],
+  "total_prompts": 20,
+  "total_calls": 60,
+  "tokens_in": 1329,
+  "tokens_out": 6165
+}
